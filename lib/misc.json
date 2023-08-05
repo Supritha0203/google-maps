@@ -1,0 +1,22 @@
+{
+    "eLocation": {
+        "type": "POI",
+        "typeX": 0,
+        "addr": "Nadergul, Saroornagar Mandal, Ranga Reddy District, Hyderabad, Telangana, 501510",
+        "y": null,
+        "x": null,
+        "mapplsPin": "78342F",
+        "entryLatitude": null,
+        "entryLongitude": null,
+        "placeName": "Maturi Venkata Subba Rao Engineering College",
+        "alternateName": "MVSR Engineering College,Subba Rao Engineering College",
+        "user": null,
+        "keywords": [
+            "COMCLG"
+        ],
+        "addressTokens": null,
+        "p": 0,
+        "orderIndex": 3,
+        "distance": null
+    }
+}
